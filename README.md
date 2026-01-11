@@ -16,7 +16,7 @@ My expertise lies in the fields of <b>Multi-Agent Systems</b>, <b>Machine Learni
 [[AAAI 2026]: SkyGP](https://github.com/Zewen-Yang/SkyGP);
 [[IEEE/CAA JAS 2026]: EIGP](https://github.com/Zewen-Yang/EIGP);
 [[AAAI 2025]: AsyncDGP](https://github.com/Xiaobing-Dai/GPgym); 
-[[JAAMAS]: Online-Pri-GP](https://github.com/Zewen-Yang/Online-Pri-GP);
+[[JAAMAS 2025]: Online-Pri-GP](https://github.com/Zewen-Yang/Online-Pri-GP);
 [[AAMAS 2024]: Pri-GP](https://github.com/Zewen-Yang/Pri-GP);
 
 
