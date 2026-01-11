@@ -4,7 +4,7 @@
 <p>
 I am a Postdoctoral Researcher and Full-Stack Developer at <i>Munich Institute of Robotics and Machine Intelligence, the Technical University of Munich (TUM)</i> based in Munich, 
 and a Ph.D. holder in Control Science & Engineering from <i>TUM and Harbin Engineering University</i>.
-My expertise lies in the fields of <b>Multi-Agent Systems</b>, <b>Machine Learning</b>, <b>Control Theory</b>, <b>Robotics</b>, <b>Data Representation</b>, and <b>Web Development</b>.
+My expertise lies in the fields of <b>Multi-Agent System</b>, <b>Generative Model</b>, <b>Robotics</b>, <b>Bayesian Learning</b>, <b>Control Theory</b>, and <b>Web Development</b>.
 </p>
 
 <a href="https://zewen-yang.github.io/"><img alt="More about me" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-Personal%20Homepage%20&raquo&raquo&raquo -1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
