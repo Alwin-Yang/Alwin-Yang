@@ -151,7 +151,7 @@ My expertise lies in the fields of <b>Multi-Agent System</b>, <b>Generative Mode
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26.svg?logo=GitLab&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
-    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon&logoColor=white"></a>
+    <a href="#"><img alt="AWS" src="./images/AWS-badge.svg"></a>
     <!-- <a href="#"><img alt="Azure" src="https://custom-icon-badges.demolab.com/badge/Azure-0078D4.svg?logo=azure&logoColor=white"></a> -->
     <!-- <a href="#"><img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4.svg?logo=microsoft-azure&logoColor=white"></a> -->
     <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=Streamlit&logoColor=white"></a>
