@@ -46,8 +46,8 @@ My expertise lies in the fields of <b>Multi-Agent System</b>, <b>Generative Mode
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <!-- <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> -->
-<img align="left" alt="Overleaf" width="30px" style="padding-right:10px;" src="./images/overleaf_logo.svg" />
-<img align="left" alt="Colab" width="30px" style="padding-right:10px;" src="./images/colab_logo.svg" />
+<img align="left" alt="Overleaf" width="30px" style="padding-right:10px;" src="./images/Overleaf.svg" />
+<img align="left" alt="Colab" width="30px" style="padding-right:10px;" src="./images/Colab.svg" />
 <!-- <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> -->
 <img align="left" alt="Notion" width="30px" style="padding-right:10px;" src="./images/Notion_logo.svg" />
 <img align="left" alt="Cursor" width="30px" style="padding-right:10px;" src="./images/Cursor_logo.svg" />
